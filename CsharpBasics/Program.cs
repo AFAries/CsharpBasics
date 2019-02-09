@@ -83,13 +83,13 @@ namespace CsharpBasics
             switch (choice)
             {
                 case 1:
-                    Console.WriteLine("You chose 1");
+                    Console.WriteLine("You chose 1.");
                     break;
                 case 2:
-                    Console.WriteLine("You chose 2");
+                    Console.WriteLine("You chose 2.");
                     break;
                 case 3:
-                    Console.WriteLine("You chose 3");
+                    Console.WriteLine("You chose 3.");
                     break;
                 default:
                     Console.WriteLine("You made an unknown choice.");
